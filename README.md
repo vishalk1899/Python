@@ -1,4 +1,4 @@
 # Python
 Learning Python from scratch.
 
-[ ]Algorithmic Complexity/ Big-O/ Asymptotic Analysis
+- [ ] Algorithmic Complexity/ Big-O/ Asymptotic Analysis
